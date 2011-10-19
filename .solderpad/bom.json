@@ -1,0 +1,214 @@
+{
+	"items": [
+		{
+			"designator": "JP1",
+			"value": "",
+			"description": "Header 7"
+		},
+		{
+			"designator": "JP2",
+			"value": "",
+			"description": "Header 7"
+		},
+		{
+			"designator": "LED1",
+			"value": "",
+			"description": "LED"
+		},
+		{
+			"designator": "LED2",
+			"value": "",
+			"description": "LED"
+		},
+		{
+			"designator": "LED3",
+			"value": "",
+			"description": "LED"
+		},
+		{
+			"designator": "LED4",
+			"value": "",
+			"description": "LED"
+		},
+		{
+			"designator": "LED5",
+			"value": "",
+			"description": "LED"
+		},
+		{
+			"designator": "LED6",
+			"value": "",
+			"description": "LED"
+		},
+		{
+			"designator": "LED7",
+			"value": "",
+			"description": "LED"
+		},
+		{
+			"designator": "LED8",
+			"value": "",
+			"description": "LED"
+		},
+		{
+			"designator": "LED9",
+			"value": "",
+			"description": "LED"
+		},
+		{
+			"designator": "LED10",
+			"value": "",
+			"description": "LED"
+		},
+		{
+			"designator": "LED11",
+			"value": "",
+			"description": "LED"
+		},
+		{
+			"designator": "LED12",
+			"value": "",
+			"description": "LED"
+		},
+		{
+			"designator": "LED13",
+			"value": "",
+			"description": "LED"
+		},
+		{
+			"designator": "LED14",
+			"value": "",
+			"description": "LED"
+		},
+		{
+			"designator": "LED15",
+			"value": "",
+			"description": "LED"
+		},
+		{
+			"designator": "LED16",
+			"value": "",
+			"description": "LED"
+		},
+		{
+			"designator": "LED17",
+			"value": "",
+			"description": "LED"
+		},
+		{
+			"designator": "LED18",
+			"value": "",
+			"description": "LED"
+		},
+		{
+			"designator": "LED19",
+			"value": "",
+			"description": "LED"
+		},
+		{
+			"designator": "LED20",
+			"value": "",
+			"description": "LED"
+		},
+		{
+			"designator": "LED21",
+			"value": "",
+			"description": "LED"
+		},
+		{
+			"designator": "LED22",
+			"value": "",
+			"description": "LED"
+		},
+		{
+			"designator": "LED23",
+			"value": "",
+			"description": "LED"
+		},
+		{
+			"designator": "LED24",
+			"value": "",
+			"description": "LED"
+		},
+		{
+			"designator": "LED25",
+			"value": "",
+			"description": "LED"
+		},
+		{
+			"designator": "LED26",
+			"value": "",
+			"description": "LED"
+		},
+		{
+			"designator": "LED27",
+			"value": "",
+			"description": "LED"
+		},
+		{
+			"designator": "LED28",
+			"value": "",
+			"description": "LED"
+		},
+		{
+			"designator": "LED29",
+			"value": "",
+			"description": "LED"
+		},
+		{
+			"designator": "LED30",
+			"value": "",
+			"description": "LED"
+		},
+		{
+			"designator": "LED31",
+			"value": "",
+			"description": "LED"
+		},
+		{
+			"designator": "LED32",
+			"value": "",
+			"description": "LED"
+		},
+		{
+			"designator": "LED33",
+			"value": "",
+			"description": "LED"
+		},
+		{
+			"designator": "LED34",
+			"value": "",
+			"description": "LED"
+		},
+		{
+			"designator": "LED35",
+			"value": "",
+			"description": "LED"
+		},
+		{
+			"designator": "LED36",
+			"value": "",
+			"description": "LED"
+		},
+		{
+			"designator": "LED37",
+			"value": "",
+			"description": "LED"
+		},
+		{
+			"designator": "LED38",
+			"value": "",
+			"description": "LED"
+		},
+		{
+			"designator": "LED39",
+			"value": "",
+			"description": "LED"
+		},
+		{
+			"designator": "LED40",
+			"value": "",
+			"description": "LED"
+		}
+	]
+}
